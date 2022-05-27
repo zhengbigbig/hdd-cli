@@ -1,0 +1,15 @@
+{
+  "name": "hdd-cli",
+  "version": "1.0.0",
+  "description": "脚手架搭建",
+  "main": "index.js",
+  "author": "zhiheng",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^9.2.0",
+    "cross-spawn": "^7.0.3",
+    "fs-extra": "^10.1.0",
+    "inquirer": "^8.2.4",
+    "ora": "5.1.0"
+  }
+}
