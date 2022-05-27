@@ -1,6 +1,6 @@
 {
   "name": "hdd-cli",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "脚手架搭建",
   "main": "index.js",
   "bin": {
