@@ -1,8 +1,11 @@
 {
   "name": "hdd-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "脚手架搭建",
   "main": "index.js",
+  "bin": {
+    "hdd-cli": "./bin/hdd-cli.js"
+  },
   "author": "zhiheng",
   "license": "MIT",
   "dependencies": {
