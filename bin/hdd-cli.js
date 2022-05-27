@@ -10,8 +10,7 @@ const init = require('../scripts/init')
 
 program
   .version(version, '-v, --version, -V', '查看脚手架版本')
-  .option('start', '启动项目')
-  .option('build', '打包项目')
+  .option('init', '初始化项目')
 
 program.parse(process.argv)
 
